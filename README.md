@@ -8,3 +8,5 @@ many concepts in smart building such as human, environment, services, devices, p
 profiles and so on. Onto-SB can be used for several ends. Members of the community of the domain can communicate
 and share knowledge between them using ontology. It can also be used to develop an intelligent system for a deferent
 purpose: security, saving energy, health-surveillance and soon.
+
+
